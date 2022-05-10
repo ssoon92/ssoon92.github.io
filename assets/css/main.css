@@ -267,27 +267,11 @@ img {
           justify-content: space-evenly;
 }
 
-.footer {
+footer {
   background-color: #fff;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  min-height: 35px;
-  color: #fff;
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
-
-  background: url(../images/background.png);
-  background-repeat: repeat;
-  background-attachment: fixed;
 }
 
-.footer-text a {
+.footer-text {
   color: black;
 }
 
@@ -431,7 +415,7 @@ a {
   color: #222;
 }
 
-#extra a{
+.section-extra a{
   color:0080ff;
 }
 

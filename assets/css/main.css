@@ -149,6 +149,11 @@ img {
   text-align: center;
 }
 
+.project-technologies a{
+  text-align: center;
+  position: relative;
+}
+
 .projects-wrapper {
   display: -ms-grid;
   display: grid;

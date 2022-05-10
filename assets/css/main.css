@@ -149,10 +149,7 @@ img {
   text-align: center;
 }
 
-.project-technologies a{
-  text-align: center;
-  position: relative;
-}
+
 
 .projects-wrapper {
   display: -ms-grid;
@@ -291,10 +288,6 @@ img {
   background-repeat: repeat;
   background-attachment: fixed;
 }
-
-<!--footer {
-  background-color: #fff;
-}-->
 
 .footer-text a {
   color: inherit;
@@ -467,6 +460,11 @@ a {
 
 .bottom-link {
   margin: 0 5px;
+}
+
+.semi-transparent-button with-border white-button {
+  text-align: center;
+  position: relative;
 }
 
 .project-technologies {

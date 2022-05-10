@@ -268,7 +268,7 @@ img {
 }
 
 .footer {
-  background-color: #444;
+  background-color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -287,9 +287,9 @@ img {
   background-attachment: fixed;
 }
 
-footer {
+<!--footer {
   background-color: #fff;
-}
+}-->
 
 .footer-text {
   color: black;

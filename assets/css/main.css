@@ -268,7 +268,7 @@ img {
 }
 
 .footer {
-  background-color: #444;
+  background-color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -288,7 +288,7 @@ img {
 }
 
 .footer-text a {
-  color: inherit;
+  color: black;
 }
 
 .technologies-grid-item {
@@ -429,6 +429,10 @@ img {
 
 a {
   color: #222;
+}
+
+#extra a{
+  color:0080ff;
 }
 
 .extra-links {

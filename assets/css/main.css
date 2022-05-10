@@ -296,6 +296,10 @@ img {
   background-color: #fff;
 }-->
 
+.footer-text a {
+  color: inherit;
+}
+
 .footer-text {
   color: black;
 }

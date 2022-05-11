@@ -16,12 +16,6 @@ reddit_username:
 
 # absolute or relative
 profile_picture: assets/images/pp.png
-person: assets/images/person.png
-location: assets/images/location.png
-email: assets/images/email.png
-calender: assets/images/calender.png
-telephone: assets/images/telephone.png
-pencil: assets/images/pencil.png
 
 # Google Analytics ID
 google_analytics: 
